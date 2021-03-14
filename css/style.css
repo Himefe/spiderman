@@ -230,7 +230,7 @@ p {
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 999;
+  z-index: 2000;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
